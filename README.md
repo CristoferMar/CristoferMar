@@ -4,7 +4,7 @@
 
 ## About Me
 **Developer Passions:**
-Through my studies toward becoming a web developer, I found I had a knack for web design and UI construction. And while the front-end is enjoyable, my real passion lies in developing the back-end of my projects. Creating the logic behind the essential processes and seeing the final product returned from an API call is the most exciting part of being a developer.
+Through my studies toward becoming a web developer, I found I had a knack for web design and UI construction. And while the front-end is enjoyable, my real passion lies in developing the back-end of my projects. Creating the logic behind the essential processes and seeing the final product returned from an API call is one of the most exciting parts of being a developer.
 
 **Advancing My Skills:**
 To strengthen my skills and continue accumulating knowledge in web development, I spend a fair amount of time each week going through online courses and reading about upcoming technologies.
