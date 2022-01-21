@@ -18,10 +18,10 @@ When I'm not coding, I'm with friends or family, playing sports, and learning ne
 
 ## Connect With Me!
 
-LinkedIn: <a href="https://www.linkedin.com/in/cristofer-martinez-0123/" target="_blank">cristofer-martinez-0123</a>
+**LinkedIn**: <a href="https://www.linkedin.com/in/cristofer-martinez-0123/" target="_blank">cristofer-martinez-0123</a>
 
-Email: <a>cristoferm@gmail.com</a>
+**Email**: <a>cristoferm@gmail.com</a>
 
+## GitHub Stats
 ![Cristofer's gitHub stats](https://github-readme-stats.vercel.app/api?username=CristoferMar&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristoferMar&layout=compact&line_height=10)](https://github.com/anuraghazra/github-readme-stats)
