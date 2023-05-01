@@ -22,7 +22,7 @@ When I'm not coding, I'm with friends or family, playing sports, and learning ne
 
 **Email**: <a>cristoferm@gmail.com</a>
 
-**Word GitHub**: <a href="https://github.com/crisPangea">crisPangea</a>
+**Work GitHub**: <a href="https://github.com/crisPangea">crisPangea</a>
 
 ## GitHub Stats
 ![Cristofer's gitHub stats](https://github-readme-stats.vercel.app/api?username=CristoferMar&show_icons=true)
