@@ -4,13 +4,13 @@
 
 ## About Me
 **Developer Passions:**
-Through my studies toward becoming a web developer, I found I had a knack for web design and UI construction. And while the front-end is enjoyable, my real passion lies in developing the back-end of my projects. Creating the logic behind the essential processes and seeing the final product returned from an API call is one of the most exciting parts of being a developer.
+I'm a full-stack web developer with 3+ years of professional experience building responsive, scalable web applications. I enjoy crafting clean, user-friendly interfaces with React and TypeScript, but my deeper interest lies in solving complex problems and designing the logic that powers applications behind the scenes. I’m passionate about building systems that are efficient, reliable, and easy to maintain. Whether I’m designing APIs, structuring data flows, or debugging performance issues, I enjoy the process of turning ideas into functional, real-world solutions.
 
 **Advancing My Skills:**
-To strengthen my skills and continue accumulating knowledge in web development, I spend a fair amount of time each week going through online courses and reading about upcoming technologies.
+To stay sharp and up-to-date, I regularly dive into online courses, read technical articles, and explore emerging tools and best practices across the web development stack.
 
 **Outside of Web Development:**
-When I'm not coding, I'm with friends or family, playing sports, and learning new skills.
+When I’m not coding, you can find me spending time with friends and family, playing sports, or picking up new skills just for fun.
 
 ## Technologies
 
