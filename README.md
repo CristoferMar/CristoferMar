@@ -1,6 +1,6 @@
 # Hi, I'm Cristofer Martinez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-##### I'm a full-stack web developer who's got a passion for learning, developing, and enjoying the great outdoors.
+##### Full-Stack Developer who loves building great products and spending time outside
 
 ## About Me
 **Developer Passions:**
