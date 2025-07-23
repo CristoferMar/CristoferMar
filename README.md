@@ -4,7 +4,7 @@
 
 ## About Me
 **Developer Passions:**
-I'm a full-stack web developer with 3+ years of professional experience building responsive, scalable web applications. I enjoy crafting clean, user-friendly interfaces with React and TypeScript, but my deeper interest lies in solving complex problems and designing the logic that powers applications behind the scenes. I’m passionate about building systems that are efficient, reliable, and easy to maintain. Whether I’m designing APIs, structuring data flows, or debugging performance issues, I enjoy the process of turning ideas into functional, real-world solutions.
+I'm a frontend-focused full-stack web developer with 3+ years of professional experience building responsive, user-friendly web applications. I love crafting intuitive interfaces using React, TypeScript, and modern UI libraries, and I care deeply about clean design, accessibility, and performance. While my primary passion lies in creating great user experiences, I also enjoy supporting those experiences with well-structured backend logic when needed. Whether I'm connecting to APIs, shaping data flows, or optimizing page speed, I take pride in building products that are both functional and enjoyable to use.
 
 **Advancing My Skills:**
 To stay sharp and up-to-date, I regularly dive into online courses, read technical articles, and explore emerging tools and best practices across the web development stack.
